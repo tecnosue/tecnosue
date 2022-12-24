@@ -1,0 +1,109 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "ES",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Susana",
+      "surnames": "Paracuellos Ralfas",
+      "title": "Desarrolladora full stack",
+      "description": "Soy apasionada de la tecnología, autodidacta, curiosa y tenaz, me implico al máximo en cada proyecto. \nDurante años he dedicado mi tiempo libre a formarme con softwares de diseño grafico, ofimática, sistemas operativos y redes.\nEn 2021 tuve la oportunidad de certificarme con Devcamp by Botegga en Fundamentos de programación donde aprendí HTML5, CSS3, Java Script y otros lenguajes de programación.\nMe gusto tanto que mi objetivo es dar un giro de 180º a mi carrera laboral y para ello estoy Certificándome como Full Stack Developer con Botegga university.",
+      "avatar": {
+        "alt": "1649717254464.jpeg",
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/11/01/b056648b-5761-4b25-b417-fb970a266f58_1649717254464.jpeg"
+      },
+      "location": {
+        "country": "España",
+        "region": "Aragón",
+        "municipality": "Zaragoza",
+        "notes": "Autocompleted using Google Maps API"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "github",
+        "URL": "https://github.com/tecnosue"
+      },
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/sparacuellos/"
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "English",
+        "level": "Limited working proficiency"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "React",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "HTML",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "CSS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Redux",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Redis",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Python",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MongoDB",
+          "type": "technology"
+        }
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "type": "linkedin",
+          "URL": "https://www.linkedin.com/in/sparacuellos/"
+        }
+      ]
+    },
+    "preferences": {
+      "preferredRoles": [
+        "Full-stack Developer"
+      ]
+    },
+    "status": "notAvailable"
+  }
+}
