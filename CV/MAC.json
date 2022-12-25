@@ -189,6 +189,50 @@
       ]
     },
     "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "API",
+          "type": "technology"
+        },
+        {
+          "name": "Apple macOS",
+          "type": "technology"
+        },
+        {
+          "name": "Axios",
+          "type": "technology"
+        },
+        {
+          "name": "Flutter",
+          "type": "technology"
+        },
+        {
+          "name": "JavaScript",
+          "type": "technology"
+        },
+        {
+          "name": "Python",
+          "type": "technology"
+        },
+        {
+          "name": "React",
+          "type": "technology"
+        },
+        {
+          "name": "React Native",
+          "type": "technology"
+        },
+        {
+          "name": "TypeScript",
+          "type": "technology"
+        }
+      ],
+      "discardedCompetences": [
+        {
+          "name": "MongoDB",
+          "type": "technology"
+        }
+      ],
       "preferredRoles": [
         "Backend Developer",
         "Frontend Developer",
