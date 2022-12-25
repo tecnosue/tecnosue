@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "ES",
+    "language": "EN",
     "MACVersion": "0.3"
   },
   "aboutMe": {
@@ -17,8 +17,7 @@
       "location": {
         "country": "España",
         "region": "Aragón",
-        "municipality": "Zaragoza",
-        "notes": "Autocompleted using Google Maps API"
+        "municipality": "Zaragoza"
       }
     },
     "relevantLinks": [
@@ -32,13 +31,96 @@
       }
     ]
   },
-  "knowledge": {
-    "languages": [
+  "experience": {
+    "jobs": [
       {
-        "name": "English",
-        "level": "Limited working proficiency"
+        "organization": {
+          "name": "FCC Logística, Logiters "
+        },
+        "roles": [
+          {
+            "name": "Operario especializado en logistica de automoción",
+            "startDate": "2006-07-01",
+            "finishDate": "2019-05-31",
+            "challenges": [
+              {
+                "description": "\n-Gestión digital de albaranes Chep.\n-Control de stock de seguridad en línea de producción.\n-Control de máximos y mínimos en MGO.\n"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": " Extel Contact Center S.A.U "
+        },
+        "roles": [
+          {
+            "name": "Empleado de telemarketing",
+            "startDate": "2006-04-01",
+            "finishDate": "2006-06-30",
+            "challenges": [
+              {
+                "description": "Teleoperadora atención al cliente y recepción y emisión de llamadas."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Ilpa centro Sils "
+        },
+        "roles": [
+          {
+            "name": "operario",
+            "startDate": "2001-11-01",
+            "finishDate": "2006-04-30",
+            "challenges": [
+              {
+                "description": "-Uso software de gestión de almacenes SIGA con Pc y PDA para sistema JIT."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "General Motors "
+        },
+        "roles": [
+          {
+            "name": "Operario de línea",
+            "startDate": "1997-07-01",
+            "finishDate": "2001-09-30",
+            "challenges": [
+              {
+                "description": "Control de calidad\nGestión de Stocks\nOperario producción\n"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "CONFECCIONES BENEDI SA "
+        },
+        "roles": [
+          {
+            "name": "Auxiliar de producción textil.",
+            "startDate": "1990-08-01",
+            "finishDate": "1994-11-30",
+            "challenges": [
+              {
+                "description": "Tareas destinadas a aumentar la producción\ny mejorar el rendimiento de los recursos\ndisponibles.\nCoordinadora de equipos y materiales.\nElaboración de planes de trabajo. Evaluación y\nsupervisión de actividades operativas."
+              }
+            ]
+          }
+        ]
       }
-    ],
+    ]
+  },
+  "knowledge": {
     "hardSkills": [
       {
         "skill": {
@@ -98,12 +180,6 @@
           "URL": "https://www.linkedin.com/in/sparacuellos/"
         }
       ]
-    },
-    "preferences": {
-      "preferredRoles": [
-        "Full-stack Developer"
-      ]
-    },
-    "status": "notAvailable"
+    }
   }
 }
