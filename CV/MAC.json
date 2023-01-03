@@ -131,31 +131,13 @@
     "hardSkills": [
       {
         "skill": {
-          "name": "React",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "HTML",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "CSS",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Redux",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Redis",
+          "name": "MongoDB",
           "type": "technology"
         }
       },
@@ -167,13 +149,43 @@
       },
       {
         "skill": {
-          "name": "JavaScript",
+          "name": "CSS",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "MongoDB",
+          "name": "NextJS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "React",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Redux",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "NodeJS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Redis",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JavaScript",
           "type": "technology"
         }
       }
