@@ -7,7 +7,7 @@
 - 🛠️ Mi Stack Principal: **.NET Core / Framework (C#), SQL Server, React, JavaScript y TypeScript**.
 - 🚀 Otras tecnologías con las que he trabajado en proyectos: **Vue.js** (Proyecto DAW), **Kotlin Multiplatform / Compose** (Proyecto DAM), Python y MongoDB.
 - 📫 Cómo contactar conmigo: **susanaparacuellos@gmail.com**
-- 📄 Échale un vistazo a mi [Currículum Vitae](https://github.com/tecnosue/Cv_Susana_Paracuellos/blob/main/CV_Susana_Paracuellos_20260717.pdf)
+- 📄 Échale un vistazo a mi [Currículum Vitae](https://github.com/tecnosue/Cv_Susana_Paracuellos/blob/main/CV_Susana_Paracuellos_20260417.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
