@@ -2,7 +2,7 @@
 <h3 align="center">Passionate Full Stack .NET Developer & Frontend Enthusiast</h3>
 
 - 💼 Actualmente trabajando como **Desarrolladora .NET**, especializada en automatización de procesos de negocio, lógica asíncrona y optimización de SQL Server.
- - 🛒 **Proyecto Full Stack Destacado (React + Next.js):** [tecnosue-shop](https://github.com/tecnosue/tecnosue-shop) - Una tienda online completa desarrollada como proyecto final de graduación Full Stack.
+ - 🛒 **Proyecto Full Stack Destacado (React + Next.js):** [tecnosue-shop](https://tecnosue-shop-bottega-capstone.vercel.app/) - Una tienda online completa desarrollada como proyecto final de graduación Full Stack.
 - ⚛️ Mi portafolio general con más proyectos basados en **React** está desplegado aquí: [spr-bottega-react-portfolio.vercel.app](https://spr-bottega-react-portfolio.vercel.app/)
 - 🅰️ Puedes ver mi aplicación móvil/web desarrollada con **Angular e Ionic** en este repositorio: [mi-rutina-fitness](https://github.com/tecnosue/mi-rutina-fitness)
 - 🛠️ Mi Stack Principal: **.NET Core / Framework (C#), SQL Server, React, JavaScript y TypeScript**.
