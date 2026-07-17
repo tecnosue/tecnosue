@@ -7,7 +7,8 @@
 
 - 📫 Como contactar conmigo **susanaparacuellos@gmail.com**
 
-- Aquí puedes ver mi currículum [https://mnf.red/tecnosue/timeline](https://mnf.red/tecnosue/timeline)
+- Aquí puedes ver mi currículum https://github.com/tecnosue/Cv_Susana_Paracuellos/blob/main/CV_Susana_Paracuellos_20260417.pdf
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
