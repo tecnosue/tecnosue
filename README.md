@@ -2,7 +2,8 @@
 <h3 align="center">Passionate Full Stack .NET Developer & Frontend Enthusiast</h3>
 
 - 💼 Actualmente trabajando como **Desarrolladora .NET**, especializada en automatización de procesos de negocio, lógica asíncrona y optimización de SQL Server.
-- ⚛️ Mis proyectos basados en **React** y ecosistema frontend están desplegados aquí: [spr-bottega-react-portfolio.vercel.app](https://spr-bottega-react-portfolio.vercel.app/)
+ - 🛒 **Proyecto Full Stack Destacado (React + Next.js):** [tecnosue-shop](https://github.com/tecnosue/tecnosue-shop) - Una tienda online completa desarrollada como proyecto final de graduación Full Stack.
+- ⚛️ Mi portafolio general con más proyectos basados en **React** está desplegado aquí: [spr-bottega-react-portfolio.vercel.app](https://spr-bottega-react-portfolio.vercel.app/)
 - 🅰️ Puedes ver mi aplicación móvil/web desarrollada con **Angular e Ionic** en este repositorio: [mi-rutina-fitness](https://github.com/tecnosue/mi-rutina-fitness)
 - 🛠️ Mi Stack Principal: **.NET Core / Framework (C#), SQL Server, React, JavaScript y TypeScript**.
 - 🚀 Otras tecnologías con las que he trabajado en proyectos: **Vue.js** (Proyecto DAW), **Kotlin Multiplatform / Compose** (Proyecto DAM), Python y MongoDB.
@@ -21,8 +22,9 @@
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
   <a href="https://www.microsoft.com/en-us/sql-server/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="sqlserver" width="40" height="40"/> </a>
   
-  <!-- Frontend Requerido por la Oferta -->
+  <!-- Frontend y Frameworks Modernos -->
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a>
   <a href="https://angular.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular" width="40" height="40"/> </a>
   <a href="https://ionicframework.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ionic/ionic-original.svg" alt="ionic" width="40" height="40"/> </a>
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vuejs" width="40" height="40"/> </a>
